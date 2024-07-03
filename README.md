@@ -5,7 +5,7 @@
 | Platform | Account Name                                                       |
 | :------- | :----------------------------------------------------------------- |
 | LinkedIn | [Daiki Matsuyama](https://www.linkedin.com/in/大樹-松山-0a71ba26a) |
-| X        | [@dkmats_rw](https://twitter.com/dkmats_rw)                        |
+| X        | [@dkmats_rw](https://x.com/dkmats_rw)                        |
 | Zenn     | [@dkmats](https://zenn.dev/dkmats)                                 |
 
 ## Bio
